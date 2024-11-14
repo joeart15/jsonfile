@@ -1,0 +1,13 @@
+{
+    "name": "Josue Arteaga",
+    "age": 26,
+    "city": "Seattle",
+    "intrest": [
+        "Marvel",
+        "League of Legends",
+        "Church",
+        "Family",
+        "Gym"
+    ],
+    "is_student": true
+}
