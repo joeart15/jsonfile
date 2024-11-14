@@ -31,3 +31,4 @@ loaded_data["intrest"].append("Being helpful")
 
 with open('data2.json', 'w') as file:
         json.dump(loaded_data, file, indent=4)
+print(loaded_data)
